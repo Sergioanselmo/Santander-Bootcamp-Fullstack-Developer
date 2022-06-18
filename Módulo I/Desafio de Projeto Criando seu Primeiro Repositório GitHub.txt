@@ -1,0 +1,3 @@
+# Desafio de Projeto Criando seu Primeiro Repositório GitHub
+
+### Nesse desafio o professor Venilton Falvo Jr - Tech Lead na Dio faz uma revisão bem simples que de certa forma facilita a compreensao do curso "Introdução ao Git e ao GitHub. Acredito que de uma forma bem simples ele apresenta a maneira mais simples de criar um repositório no GitHub, como clonar o repositório no Git Bash e depois como alterar seu repositório local e como transmitir as alterações para o repositório que você criou no GitHub. 
